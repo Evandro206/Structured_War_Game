@@ -2,5 +2,4 @@
 .idea/
 
 # Binaries
-.exe
-.exe~
+*.exe
